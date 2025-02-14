@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(250, 218, 190);
+}
+
+button{
+    background-color: rgb(244, 149, 190);
+    color: rgb(129, 201, 234);
+    font-size: 4vw;
+    border: none;
+    border-radius: 2vw;
+}
+
+p{
+    color: rgb(129, 201, 234);
+    font-style: oblique;
+    font-size: 3vw;
+}
+
+div{
+    width: 100vw;
+    height: 4vw;
+}
